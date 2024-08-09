@@ -14,7 +14,7 @@
 ## Installation
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/monument-explorer.git
+git clone https://github.com/17xr/VisitAMonument.git
 ```
 2. Open the project in Android Studio.
 3. Build and run the app on an emulator or physical device.
